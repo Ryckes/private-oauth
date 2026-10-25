@@ -1,2 +1,3 @@
-# private-oauth
-Private Projects OAuth
+# Private OAuth
+
+Public page containing privacy policy.
